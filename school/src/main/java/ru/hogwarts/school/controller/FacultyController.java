@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import ru.hogwarts.school.model.Faculty;
 import ru.hogwarts.school.service.FacultyServiceImpl;
 
-import java.util.ArrayList;
+
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Objects;
